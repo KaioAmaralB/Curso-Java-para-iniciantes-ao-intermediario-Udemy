@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Seção 11/Loop"/>
+	<classpathentry kind="src" path="Seção 15/BoasVindas"/>
+	<classpathentry kind="src" path="Seção 15/Metodos"/>
+	<classpathentry kind="src" path="Seção 15/Recursividade"/>
+	<classpathentry kind="src" path="Seção 16/Fatorial"/>
+	<classpathentry kind="src" path="Seção 18/Calculadora"/>
+	<classpathentry kind="src" path="Seção 26/Senha"/>
+	<classpathentry kind="src" path="Seção 5/EntradaDados"/>
+	<classpathentry kind="src" path="Seção 6/Operadores"/>
+	<classpathentry kind="src" path="Seção 8/Condicao"/>
+	<classpathentry kind="src" path="Seção 9/CalcularIMC"/>
+	<classpathentry kind="src" path="ws-java/Java para Iniciantes ao Intermediário/src"/>
+	<classpathentry kind="output" path="ws-java/Java para Iniciantes ao Intermediário/bin"/>
+</classpath>
